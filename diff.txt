@@ -1,7 +1,0 @@
-diff --git a/example.html b/example.html
-new file mode 100644
-index 0000000..99fa436
---- /dev/null
-+++ b/example.html
-@@ -0,0 +1 @@
-+<!-- This is a example html file. -->
